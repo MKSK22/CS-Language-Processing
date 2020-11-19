@@ -12,3 +12,4 @@ The downloaded sample consist of several nested folders. At the top level, we ha
 and Portuguese. For each language, we have from one to four authors each, 13 authors in total.
 For each author, we have from 1 to 16 books, 102 books in total.
 
+![img](hamletstats.png)
